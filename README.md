@@ -96,5 +96,14 @@ Dockerfile должен быть написан для каждой дополн
 Perfect означает, что обязательная часть была полностью выполнена
 и работает без сбоев. Если вы не прошли ВСЕ обязательные требования, ваша бонусная часть вообще не будет оцениваться.
 </details>
+<details>
+<summary>Полезные материалы для изучения </summary>
+
+* [Что такое Докер?](https://badtry.net/docker-tutorial-dlia-novichkov-rassmatrivaiem-docker-tak-iesli-by-on-byl-ighrovoi-pristavkoi/)
+* [Docker и Docker-Compose Tutorial (Контейнеры, install, run, image, daemon, etc.)](https://ivan-shamaev.ru/docker-compose-tutorial-container-image-install/)
+* [Основные команды для Докер](https://github.com/Sheveleva-Tatiana/Inception/files/9869584/Docker-Cheat-Sheet-Cloud.pdf)
+* [Основы Docker. Большой практический выпуск](https://www.youtube.com/watch?v=QF4ZF857m44)
+
+</details>
 
 
